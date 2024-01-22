@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "label": "Sapphire Fusion X",
+    "price": 49.99,
+    "description": "High-performance gaming graphics card with advanced features."
+  },
+  {
+    "id": 2,
+    "label": "Quantum Infinity Laptop",
+    "price": 899.99,
+    "description": "Powerful laptop with cutting-edge quantum processing technology."
+  },
+  {
+    "id": 3,
+    "label": "Lunar Eclipse Smartwatch",
+    "price": 149.99,
+    "description": "Smartwatch with lunar tracking and health monitoring features."
+  },
+  {
+    "id": 4,
+    "label": "Cosmic Voyager Drone",
+    "price": 199.99,
+    "description": "Explore the skies with this advanced cosmic drone equipped with HD camera."
+  },
+  {
+    "id": 5,
+    "label": "Aqua Blaze Waterproof Speaker",
+    "price": 79.99,
+    "description": "Enjoy music anywhere with this waterproof and portable Bluetooth speaker."
+  },
+  {
+    "id": 6,
+    "label": "Velocity Turbo Blender",
+    "price": 59.99,
+    "description": "High-speed blender for quick and efficient food processing."
+  },
+  {
+    "id": 7,
+    "label": "Solar Flare Headphones",
+    "price": 129.99,
+    "description": "Immerse yourself in music with these stylish solar-powered headphones."
+  },
+  {
+    "id": 8,
+    "label": "Nebula Quest VR System",
+    "price": 299.99,
+    "description": "Experience virtual reality like never before with Nebula Quest VR System."
+  },
+  {
+    "id": 9,
+    "label": "Galactic Explorer Telescope",
+    "price": 179.99,
+    "description": "Observe distant galaxies and stars with this advanced telescope."
+  },
+  {
+    "id": 10,
+    "label": "Stellar Shine LED Light Strips",
+    "price": 34.99,
+    "description": "Decorate your space with these customizable stellar LED light strips."
+  },
+  {
+    "id": 11,
+    "label": "Quantum Quantumizer Quantum Mouse",
+    "price": 29.99,
+    "description": "Ultra-precise quantum mouse for gaming and professional use."
+  },
+  {
+    "id": 12,
+    "label": "Cosmic Comfort Pillow",
+    "price": 19.99,
+    "description": "Experience cosmic comfort with this memory foam pillow."
+  },
+  {
+    "id": 13,
+    "label": "Zenith Zen Bluetooth Earbuds",
+    "price": 89.99,
+    "description": "Wireless Bluetooth earbuds with noise-canceling technology."
+  },
+  {
+    "id": 14,
+    "label": "Solaris Solar Power Bank",
+    "price": 49.99,
+    "description": "Charge your devices on the go with this solar-powered power bank."
+  },
+  {
+    "id": 15,
+    "label": "Lumina Nova Desk Lamp",
+    "price": 39.99,
+    "description": "Illuminate your workspace with this adjustable LED desk lamp."
+  },
+  {
+    "id": 16,
+    "label": "Cyclone Cyclonic Vacuum Cleaner",
+    "price": 149.99,
+    "description": "Efficient cyclonic vacuum cleaner for a powerful cleaning experience."
+  },
+  {
+    "id": 17,
+    "label": "Astral Aura Yoga Mat",
+    "price": 24.99,
+    "description": "Elevate your yoga practice with this cosmic-inspired yoga mat."
+  },
+  {
+    "id": 18,
+    "label": "Harmony Harmony Smart Thermostat",
+    "price": 129.99,
+    "description": "Control your home temperature with this smart and energy-efficient thermostat."
+  },
+  {
+    "id": 19,
+    "label": "Nova Nebula Hair Dryer",
+    "price": 69.99,
+    "description": "Quick-drying hair dryer with advanced nebula technology for smooth results."
+  },
+  {
+    "id": 20,
+    "label": "Vortex Vortex Gaming Chair",
+    "price": 199.99,
+    "description": "Enhance your gaming experience with this ergonomic and stylish gaming chair."
+  },
+  {
+    "id": 21,
+    "label": "Celestial Celestial Coffee Maker",
+    "price": 79.99,
+    "description": "Brew your favorite coffee with this celestial-inspired coffee maker."
+  },
+  {
+    "id": 22,
+    "label": "Quantum Quantum Quantum Quantum Keyboard",
+    "price": 49.99,
+    "description": "Responsive quantum keyboard for seamless typing and gaming."
+  },
+  {
+    "id": 23,
+    "label": "Spectrum Spectrum RGB Mouse Pad",
+    "price": 29.99,
+    "description": "Customize your gaming setup with this vibrant RGB mouse pad."
+  },
+  {
+    "id": 24,
+    "label": "Lunar Lunar Sleep Mask",
+    "price": 14.99,
+    "description": "Experience deep sleep with this comfortable lunar sleep mask."
+  },
+  {
+    "id": 25,
+    "label": "Pulse Pulse Fitness Tracker",
+    "price": 49.99,
+    "description": "Track your fitness journey with this advanced pulse fitness tracker."
+  },
+  {
+    "id": 26,
+    "label": "Solar Solar Garden Lights",
+    "price": 34.99,
+    "description": "Illuminate your garden with these solar-powered outdoor lights."
+  },
+  {
+    "id": 27,
+    "label": "Astral Astral Aromatherapy Diffuser",
+    "price": 39.99,
+    "description": "Create a soothing atmosphere with this astral aromatherapy diffuser."
+  },
+  {
+    "id": 28,
+    "label": "Quantum Quantum Quantumizer Quantum Speakers",
+    "price": 99.99,
+    "description": "Immerse yourself in high-quality sound with these quantum speakers."
+  },
+  {
+    "id": 29,
+    "label": "Cosmic Cosmic Cosmicomicomico Bluetooth Sunglasses",
+    "price": 79.99,
+    "description": "Stay connected on the go with these cosmic Bluetooth sunglasses."
+  },
+  {
+    "id": 30,
+    "label": "Stellar Stellar Stellarizer Stellarizerizerizerizer Vacuum Flask",
+    "price": 24.99,
+    "description": "Keep your beverages hot or cold with this stellar vacuum flask."
+  }
+]

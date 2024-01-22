@@ -1,0 +1,25 @@
+:root {
+  /* https://getbootstrap.com/docs/5.3/customize/css-variables/ */
+  --bs-body-bg: #ffffff;
+  --bs-body-color: #000000;
+  --bs-body-font-family: 'Oswald', sans-serif;
+  --bs-body-font-size: 1.4rem;
+  --bs-link-color: var(--bs-body-color);
+}
+
+.nav-pills {
+  --bs-nav-pills-link-active-color: var(--bs-body-bg);
+  --bs-nav-pills-link-active-bg: var(--bs-body-color);
+}
+
+.list-group {
+  --bs-list-group-bg: transparent;
+}
+
+.list-group-item {
+  --bs-list-group-border-color: var(--bs-body-color);
+  --bs-list-group-color: var(--bs-body-color);
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
